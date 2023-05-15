@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
+Hi, I'm Lutfi Randiva 👋 
+
+I am a Year 4 Computer Science and Mathematics student from National University of Singapore (NUS),
+specialising in Algorithms and Theory, and a [competitive programmer](https://github.com/luffingluffy/cp) in my spare time.  
+
+# Codeforces Stats
 ![](https://raw.githubusercontent.com/luffingluffy/cf-stats/main/output/light_card.svg#gh-dark-mode-only)  
 ![](https://raw.githubusercontent.com/luffingluffy/cf-stats/main/output/light_card.svg)  
 
